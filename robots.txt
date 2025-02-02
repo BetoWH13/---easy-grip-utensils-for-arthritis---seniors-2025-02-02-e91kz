@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://betowh13.github.io/---easy-grip-utensils-for-arthritis---seniors-2025-02-02-e91kz/sitemap.xml
